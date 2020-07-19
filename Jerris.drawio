@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-07-19T16:48:52.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.6" etag="5AffbDREIuoDvVCbOYfG" type="github"><diagram id="gBeoyxnjPRkxt87tUZH4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-19T16:49:01.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="wTLhBLTAIW0MXFpqzG-R" version="13.4.6" type="github">
+  <diagram id="gBeoyxnjPRkxt87tUZH4" name="Page-1">
+    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-1" value="Al&#39;Kalir Square" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-2" value="Usun&#39;s Lair Inn/Tavern" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-3" value="Weaponsmith&lt;br&gt;Gar Steelarm - Ork" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-4" value="Alchemist&lt;br&gt;Neloth - Elf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-5" value="Path to Shipyard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-6" value="Path to Spire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b8Ko2YbfWa-QRJcQ-C6n-7" value="South Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
