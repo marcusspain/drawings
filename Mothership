@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T01:48:48.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="5omlne1o3b_EYzqWwFiu" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T01:56:17.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OG5gjA-g0q3rEXe5i6Fe" version="14.5.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1520" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1238" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M64sabGcJWyoSsPF91rq-57" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2841" y="1210" width="284" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-56" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2547" y="1210" width="284" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-55" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2249" y="1210" width="284" height="223" as="geometry" />
+        </mxCell>
         <mxCell id="urjggYorRQdHmCK_dlXc-3" value="GHE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1215" y="907" width="402" height="237" as="geometry" />
         </mxCell>
@@ -597,6 +606,60 @@
         </mxCell>
         <mxCell id="M64sabGcJWyoSsPF91rq-38" value="..." style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1522.9399999999998" y="1067.62" width="60" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-40" value="Project" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="894" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-41" value="Template" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2266" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-42" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2395" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-43" value="driver.yaml" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2333" y="1287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-44" value="device role" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2333" y="1356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-45" value="Template" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M64sabGcJWyoSsPF91rq-46" target="M64sabGcJWyoSsPF91rq-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M64sabGcJWyoSsPF91rq-46" target="M64sabGcJWyoSsPF91rq-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M64sabGcJWyoSsPF91rq-46" target="M64sabGcJWyoSsPF91rq-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-46" value="probe-all.yaml" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="1036" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-47" value="Template" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2562" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-48" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2691" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-49" value="driver.yaml" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="1287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-50" value="device role" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2629" y="1356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-51" value="Template" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-52" value="Inventory" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2989" y="1218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-53" value="driver.yaml" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2927" y="1287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M64sabGcJWyoSsPF91rq-54" value="device role" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2927" y="1356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
