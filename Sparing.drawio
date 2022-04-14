@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T19:56:05.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PPkff4GIb0tH_0utS6aO" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T20:19:38.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="WISSbZB6ubRCWDIAthOq" version="16.5.5" type="github">
   <diagram id="iNa6gwHDbmFlnGHxlJda" name="Page-1">
     <mxGraphModel dx="998" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-36" value="&lt;div&gt;Things that need to be added to the base Sparing OS.&lt;/div&gt;&lt;ul&gt;&lt;li&gt;NTP&lt;/li&gt;&lt;li&gt;Spectre User&lt;/li&gt;&lt;li&gt;Python3?&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YTpRBcynnp5LrahA9CbU-37" value="Other things to do.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Learn MongoDB&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="150" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
