@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T15:05:53.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rMfmyzB3bKQ4tTZf0DQC" version="16.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-15T16:19:15.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jf1iYd_LK49qXDYx1u59" version="16.5.5" type="github" pages="2">
   <diagram id="iNa6gwHDbmFlnGHxlJda" name="Page-1">
     <mxGraphModel dx="1527" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YTpRBcynnp5LrahA9CbU-48" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Data Collection" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="350" height="220" as="geometry" />
+          <mxGeometry x="100" y="180" width="350" height="220" as="geometry" />
         </mxCell>
         <mxCell id="HMwS3oWkcflXyOTSQmY--2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YTpRBcynnp5LrahA9CbU-1" target="HMwS3oWkcflXyOTSQmY--1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-21" value="Ansible" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="132.5" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-23" value="Auto-Ticketing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="950" width="120" height="60" as="geometry" />
@@ -84,13 +84,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-27" value="Spectre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="297.5" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-36" value="&lt;div&gt;Things that need to be added to the base Sparing OS.&lt;/div&gt;&lt;ul&gt;&lt;li&gt;NTP&lt;/li&gt;&lt;li&gt;Spectre User&lt;/li&gt;&lt;li&gt;Python3?&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="80" width="120" height="140" as="geometry" />
+          <mxGeometry x="400" y="20" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="YTpRBcynnp5LrahA9CbU-37" value="Other things to do.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Learn MongoDB&lt;/li&gt;&lt;li&gt;Update IPMI FW&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="150" height="140" as="geometry" />
+        <mxCell id="YTpRBcynnp5LrahA9CbU-37" value="Other things to do.&lt;br&gt;&lt;ul&gt;&lt;li&gt;Learn MongoDB&lt;/li&gt;&lt;li&gt;Update IPMI FW&lt;/li&gt;&lt;li&gt;Processes for Periodic Inventory Updates of Offline Devices&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YTpRBcynnp5LrahA9CbU-38" target="YTpRBcynnp5LrahA9CbU-39">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YTpRBcynnp5LrahA9CbU-49" value="map.vipertv.net" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="180" width="100" height="80" as="geometry" />
+          <mxGeometry x="307.5" y="190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HMwS3oWkcflXyOTSQmY--1" value="Report Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="60" height="80" as="geometry" />
